@@ -1,0 +1,10 @@
+[
+  {
+    "package": "modopt.matlab",
+    "oncran": true
+  },
+  {
+    "package": "portfolio.optimization",
+    "oncran": true
+  }
+]
