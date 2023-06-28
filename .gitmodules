@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "modopt.matlab"]
 	path = modopt.matlab
 	url = https://github.com/rhochreiter/modopt.matlab
-	shallow = true
-	registered = true
 [submodule "portfolio.optimization"]
 	path = portfolio.optimization
 	url = https://github.com/rhochreiter/portfolio.optimization
-	shallow = true
-	registered = true
