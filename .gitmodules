@@ -5,6 +5,3 @@
 [submodule "modopt.matlab"]
 	path = modopt.matlab
 	url = https://github.com/rhochreiter/modopt.matlab
-[submodule "portfolio.optimization"]
-	path = portfolio.optimization
-	url = https://github.com/rhochreiter/portfolio.optimization
